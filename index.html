@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="br">
+<meta charset="UTF-8">
+<head>
+    <script src="formCadastro.js"></script>
+</head>
+<body>
+<form name="cadastro">
+    <h3>Cadastro</h3>
+    Nome:<br>
+    <input type="text" name="firstname" size="20"><br>
+    Sobrenome:<br>
+    <input type="text" name="lastname" size="20"><br>
+    Data de nascimento:<br>
+    <input type="date" name="birthday"><br>
+    Sexo:<br>
+    <input type="radio" name="gender" value="male" checked> Macho
+    <input type="radio" name="gender" value="female"> Fêmea<br>
+    Cpf:<br>
+    <input type="text" name="CPF" onchange="validateCPF()"><br>
+    e-mail:<br>
+    <input type="email" name="email" maxlength="60" size="65" onchange="validateEmail()"><br>
+    Senha:<br>
+    <input type="password" name="pass"><br>
+    <p>Enviar arquivos:<br>
+        <input type="file"></p>
+    <p><input type="checkbox" name="info" value="info"> Desejo receber notificações por e-mail<br></p>
+    <input type="reset" name="reset" value="Apagar tudo">
+    <input type="button" name="submit" value="Salvar" onmouseup="confirma()">
+</form>
+</body>
+</html>

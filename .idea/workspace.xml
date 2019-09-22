@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f19faf09-431d-45f2-9517-e29e8982b016" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R4Cj9FeP6Tqm68GIaxQBdMrKW7" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_without-accents.dic" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="4" Folder0="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary" Folder1="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary" Folder2="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary" Folder3="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary" CustomDictionaries="4" CustomDictionary0="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil.dic" CustomDictionary1="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_technical-terms.dic" CustomDictionary2="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_without-accents.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f19faf09-431d-45f2-9517-e29e8982b016" name="Default Changelist" comment="" />
+      <created>1568917113202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568917113202</updated>
+      <workItem from="1568917114310" duration="4448000" />
+      <workItem from="1568930587246" duration="1329000" />
+      <workItem from="1569013830829" duration="2821000" />
+      <workItem from="1569089595712" duration="2801000" />
+      <workItem from="1569095088722" duration="4607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
