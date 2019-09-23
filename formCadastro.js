@@ -10,9 +10,9 @@ function confirma() {
 }
 
 function redirectHome() {
-    window.location = "http://localhost:63342/dropbox/index.html?_ijt=nis5c9fja5c6hckvd8726lj1rd";
+    window.location = "http://localhost:63342/JsSandbox/index.html";
     document.write("Você será redirecionado à página inicial em 5 segundos");
-    setTimeout('window.history.go(-1)', 5000)
+    setTimeout('window.location.href="http://localhost:63342/jsSandbox/index.html"', 5000)
 }
 
 function validateEmail() {
@@ -29,28 +29,49 @@ function validateEmail() {
 }
 
 function validateCPF() {
-    const cpfNum = document.cadastro.email.value;
+    var strCPF = document.cadastro.CPF.value;
     var Soma;
     var Resto;
     Soma = 0;
-    if (cpfNum === "00000000000") return false;
+    if (strCPF === "00000000000") alert("CPF inválido");
 
-    for (let i = 1; i <= 9; i++) Soma = Soma + parseInt(cpfNum.substring(i - 1, i)) * (11 - i);
+    for (i = 1; i <= 9; i++) Soma = Soma + parseInt(strCPF.substring(i - 1, i)) * (11 - i);
     Resto = (Soma * 10) % 11;
 
     if ((Resto === 10) || (Resto === 11)) Resto = 0;
-    if (Resto !== parseInt(cpfNum.substring(9, 10))) return false;
+    if (Resto !== parseInt(strCPF.substring(9, 10))) alert("CPF inválido");
 
     Soma = 0;
-    for (i = 1; i <= 10; i++) Soma = Soma + parseInt(cpfNum.substring(i - 1, i)) * (12 - i);
+    for (i = 1; i <= 10; i++) Soma = Soma + parseInt(strCPF.substring(i - 1, i)) * (12 - i);
     Resto = (Soma * 10) % 11;
 
     if ((Resto === 10) || (Resto === 11)) Resto = 0;
-    if (Resto !== parseInt(cpfNum.substring(10, 11))) {
-        alert("CPF inválido")
-        return false;
-    }
+    if (Resto !== parseInt(strCPF.substring(10, 11))) alert("CPF inválido");
     return true;
 }
 
+function validatePass(){
+    const pass = document.cadastro.pass.value;
+    const confirm = document.cadastro.confirm.value;
+    if (pass.length <4){
+        alert("A senha deve ter pelo menos 4 caracteres")
+    }
+    if (pass !== confirm){
+        alert("Senha não confirmada");
+        return false;
+    }
+    else {
+        return false;
+    }
+}
+
+function validateName(){
+    const userName = document.cadastro.name.value;
+    if (userName.length < 1){
+        alert("O nome deve ser preenchido")
+    }
+    else{
+        return true
+    }
+}
 

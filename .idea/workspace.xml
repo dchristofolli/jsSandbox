@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f19faf09-431d-45f2-9517-e29e8982b016" name="Default Changelist" comment="" />
+    <list default="true" id="f19faf09-431d-45f2-9517-e29e8982b016" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formCadastro.js" beforeDir="false" afterPath="$PROJECT_DIR$/formCadastro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +20,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1R4Cj9FeP6Tqm68GIaxQBdMrKW7" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_without-accents.dic" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_without-accents.dic" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -39,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="4" Folder0="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary" Folder1="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary" Folder2="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary" Folder3="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary" CustomDictionaries="4" CustomDictionary0="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil.dic" CustomDictionary1="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_technical-terms.dic" CustomDictionary2="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="$USER_HOME$/Projetos/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_without-accents.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="4" Folder0="$USER_HOME$/IntelliJ.Portuguese.Brazil.Dictionary" Folder1="$USER_HOME$/IntelliJ.Portuguese.Brazil.Dictionary" Folder2="$USER_HOME$/IntelliJ.Portuguese.Brazil.Dictionary" Folder3="$USER_HOME$/IntelliJ.Portuguese.Brazil.Dictionary" CustomDictionaries="4" CustomDictionary0="$USER_HOME$/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil.dic" CustomDictionary1="$USER_HOME$/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_technical-terms.dic" CustomDictionary2="$USER_HOME$/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="$USER_HOME$/IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_without-accents.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -55,10 +64,22 @@
       <workItem from="1569013830829" duration="2821000" />
       <workItem from="1569089595712" duration="2801000" />
       <workItem from="1569095088722" duration="4607000" />
+      <workItem from="1569246255599" duration="9603000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
